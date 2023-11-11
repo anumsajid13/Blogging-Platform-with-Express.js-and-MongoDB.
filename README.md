@@ -34,10 +34,12 @@ This is a simple blogging platform developed using Node.js, Express.js, and Mong
 2. Install Dependencies:
 
     ```bash
-   cd blogging-platform
+   cd Blogging-Platform-with-Express.js-and-MongoDB
    npm install
    npm install express
    npm install mongoose
+   npm install jwtwebtoken
+   npm install dotenv
 
 3. Start the Server:
 
