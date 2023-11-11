@@ -30,11 +30,11 @@ This is a simple blogging platform developed using Node.js, Express.js, and Mong
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blogging-platform.git
+   git clone https://github.com/anumsajid13/Blogging-Platform-with-Express.js-and-MongoDB..git
 2. Install Dependencies:
 
     ```bash
-   cd Blogging-Platform-with-Express.js-and-MongoDB
+   cd Blogging-Platform-with-Express.js-and-MongoDB.
    npm install
    npm install express
    npm install mongoose
